@@ -1,1 +1,1 @@
-# StockUp
+# Stock-Up

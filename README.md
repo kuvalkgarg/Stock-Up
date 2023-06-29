@@ -12,7 +12,7 @@ The project is implemented in **Python**. It utilizes the following libraries:
 2. For MQTT Subscriber:
 * **paho.mqtt.client:** Used for MQTT communication with the broker and subscribing to topics.
 
-# Installation nand Execution
+# Installation and Execution
 1. Clone the repository to your local machine.
 2. Ensure you have Python installed (version 3.0 or above).
 3. Install the required dependencies:
